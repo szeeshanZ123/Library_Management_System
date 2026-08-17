@@ -1,0 +1,27 @@
+[
+    {
+        "student_id": "S1001",
+        "name": "Alice Smith",
+        "password": "alice123"
+    },
+    {
+        "student_id": "S1002",
+        "name": "Bob Jones",
+        "password": "bob123"
+    },
+    {
+        "student_id": "S1003",
+        "name": "Charlie Brown",
+        "password": "charlie123"
+    },
+    {
+        "student_id": "S1004",
+        "name": "David Wilson",
+        "password": "david123"
+    },
+    {
+        "student_id": "",
+        "name": "",
+        "password": ""
+    }
+]

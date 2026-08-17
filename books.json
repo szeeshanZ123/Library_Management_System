@@ -1,0 +1,11 @@
+[
+    {
+        "book_id": "101",
+        "title": "python programming",
+        "author": "Zeeshan shaikh",
+        "category": "programming",
+        "isbn": "1234567890987654",
+        "quantity": 4,
+        "available_status": true
+    }
+]
