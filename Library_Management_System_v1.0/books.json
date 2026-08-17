@@ -1,38 +1,38 @@
 [
-  {
-    "book_id": "B1001",
-    "title": "Introduction to Algorithms",
-    "author": "Thomas H. Cormen",
-    "category": "Computer Science",
-    "isbn": "9780262033848",
-    "quantity": 5,
-    "available_status": true
-  },
-  {
-    "book_id": "B1002",
-    "title": "Clean Code",
-    "author": "Robert C. Martin",
-    "category": "Software Engineering",
-    "isbn": "9780132350884",
-    "quantity": 3,
-    "available_status": true
-  },
-  {
-    "book_id": "B1003",
-    "title": "Python Crash Course",
-    "author": "Eric Matthes",
-    "category": "Programming",
-    "isbn": "9781593279288",
-    "quantity": 2,
-    "available_status": true
-  },
-  {
-    "book_id": "B1004",
-    "title": "Database System Concepts",
-    "author": "Abraham Silberschatz",
-    "category": "Database",
-    "isbn": "9780073523323",
-    "quantity": 4,
-    "available_status": true
-  }
+    {
+        "book_id": "B1001",
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "category": "Computer Science",
+        "isbn": "9780262033848",
+        "quantity": 5,
+        "available_status": true
+    },
+    {
+        "book_id": "B1002",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "category": "Software Engineering",
+        "isbn": "9780132350884",
+        "quantity": 2,
+        "available_status": true
+    },
+    {
+        "book_id": "B1003",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "category": "Programming",
+        "isbn": "9781593279288",
+        "quantity": 2,
+        "available_status": true
+    },
+    {
+        "book_id": "B1004",
+        "title": "Database System Concepts",
+        "author": "Abraham Silberschatz",
+        "category": "Database",
+        "isbn": "9780073523323",
+        "quantity": 4,
+        "available_status": true
+    }
 ]

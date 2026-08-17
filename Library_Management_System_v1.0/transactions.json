@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "transaction_id": 1,
+        "student_id": "10",
+        "book_id": "B1002",
+        "borrow_date": "2026-08-17",
+        "return_date": null,
+        "status": "Borrowed"
+    }
+]
